@@ -1,0 +1,56 @@
+.text{
+    text-align: center;
+    
+    border: 3px rgb(223, 32, 32) solid;
+    border-left: rgb(38, 119, 156) solid;
+    border-right: rgb(38, 162, 219) solid;
+    width: 350px;
+    height: 150px;
+    position: relative;
+    left: 500px;
+    top: 200px;
+
+}
+/* .bebo{
+position: relative;
+top: 50px;
+} */
+.one{
+    position: relative;
+    bottom: 135px;
+    right: 10px;
+    background-color: rgb(20, 157, 221);
+    border-right: red solid;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+}
+.towe{ 
+    position: relative;
+    bottom:18px;
+    right: 10px;
+    border-right: red solid;
+
+    background-color: rgb(20, 148, 207);
+    width: 20px;
+    height: 20px;
+    text-align: center;}
+.three{
+    position: relative;
+    left: 342px;
+    bottom:52px;
+    border-left: red solid;
+     background-color: rgb(20, 154, 216);
+    width: 20px;
+    height: 20px;
+    text-align: center;}
+.four{
+    position: relative;
+    left:342px;
+    bottom:242px;
+    border-left: red solid;
+    
+    background-color: rgb(20, 151, 212);
+    width: 20px;
+    height: 20px;
+    text-align: center;}
